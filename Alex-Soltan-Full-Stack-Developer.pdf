@@ -19,21 +19,21 @@ endobj
 <<
 /A <<
 /S /URI /Type /Action /URI (mailto:alexsoltan47@gmail.com)
->> /Border [ 0 0 0 ] /Rect [ 298.9098 742.9354 388.3898 752.5354 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 206.2018 742.9354 295.6818 752.5354 ] /Subtype /Link /Type /Annot
 >>
 endobj
 5 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://www.linkedin.com/in/alex-soltan-88534b287/)
->> /Border [ 0 0 0 ] /Rect [ 394.9178 742.9354 425.1578 752.5354 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 302.2098 742.9354 438.7138 752.5354 ] /Subtype /Link /Type /Annot
 >>
 endobj
 6 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://github.com/leosoltan47)
->> /Border [ 0 0 0 ] /Rect [ 431.6858 742.9354 456.5818 752.5354 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 445.2418 742.9354 527.5058 752.5354 ] /Subtype /Link /Type /Annot
 >>
 endobj
 7 0 obj
@@ -72,7 +72,7 @@ endobj
 endobj
 12 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260821095933+03'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260821095933+03'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+/Author (\(anonymous\)) /CreationDate (D:20260821172458+03'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260821172458+03'00') /Producer (ReportLab PDF Library - \(opensource\)) 
   /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
 >>
 endobj
@@ -83,7 +83,7 @@ endobj
 endobj
 14 0 obj
 <<
-/Length 11935
+/Length 11974
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -112,7 +112,7 @@ Q
 q
 1 0 0 1 51.35433 743.1354 cm
 q
-BT 1 0 0 1 0 1.4 Tm 87.33946 0 Td 9.4 TL /F1 8 Tf .278431 .329412 .403922 rg (Kyrenia, North Cyprus | EU passport holder | ) Tj .203922 .25098 .329412 rg (alexsoltan47@gmail.com) Tj .278431 .329412 .403922 rg ( | ) Tj .203922 .25098 .329412 rg (LinkedIn) Tj .278431 .329412 .403922 rg ( | ) Tj .203922 .25098 .329412 rg (GitHub) Tj T* -87.33946 0 Td ET
+BT 1 0 0 1 0 1.4 Tm 16.41546 0 Td 9.4 TL /F1 8 Tf .278431 .329412 .403922 rg (Kyrenia, Cyprus | EU passport holder | ) Tj .203922 .25098 .329412 rg (alexsoltan47@gmail.com) Tj .278431 .329412 .403922 rg ( | ) Tj .203922 .25098 .329412 rg (linkedin.com/in/alex-soltan-88534b287) Tj .278431 .329412 .403922 rg ( | ) Tj .203922 .25098 .329412 rg (github.com/leosoltan47) Tj T* -16.41546 0 Td ET
 Q
 Q
 q
@@ -443,7 +443,7 @@ xref
 trailer
 <<
 /ID 
-[<d885de3487aa8070663ae0e7a382ae09><d885de3487aa8070663ae0e7a382ae09>]
+[<08a07285439c533d52b8b1ecf9734596><08a07285439c533d52b8b1ecf9734596>]
 % ReportLab generated PDF document -- digest (opensource)
 
 /Info 12 0 R
@@ -451,5 +451,5 @@ trailer
 /Size 15
 >>
 startxref
-14054
+14093
 %%EOF
