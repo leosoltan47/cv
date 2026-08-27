@@ -45,14 +45,14 @@ endobj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://regal-hummingbird-c969c8.netlify.app)
->> /Border [ 0 0 0 ] /Rect [ 51.35433 269.3454 86.87443 278.5854 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 51.35433 259.9954 86.87443 269.2354 ] /Subtype /Link /Type /Annot
 >>
 endobj
 9 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://github.com/leosoltan47/Is-This-Worth-It)
->> /Border [ 0 0 0 ] /Rect [ 93.15763 269.3454 129.9559 278.5854 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 93.15763 259.9954 129.9559 269.2354 ] /Subtype /Link /Type /Annot
 >>
 endobj
 10 0 obj
@@ -72,7 +72,7 @@ endobj
 endobj
 12 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260821172458+03'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260821172458+03'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+/Author (\(anonymous\)) /CreationDate (D:20260827170447+03'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260827170447+03'00') /Producer (ReportLab PDF Library - \(opensource\)) 
   /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
 >>
 endobj
@@ -83,7 +83,7 @@ endobj
 endobj
 14 0 obj
 <<
-/Length 11974
+/Length 12002
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -129,7 +129,7 @@ q
 1 0 0 1 51.35433 663.9354 cm
 q
 .113725 .160784 .223529 rg
-BT 1 0 0 1 0 40.35 Tm /F1 8.15 Tf 9.7 TL (Full stack developer. React, React Native, Next.js, TypeScript, Node.js, Python. Freelance since 2024: I design, build, test and deploy) Tj T* (client web and mobile products myself, working Agile with CI/CD. Before that, two years of production QA at Nexcom. That background) Tj T* -0.055324 Tw (shows in how I ship: unit, integration and Playwright end-to-end tests plus API test automation on everything, before it goes out, not after.) Tj T* 0 Tw (I build with AI in the loop: Gemini and Google Vision OCR in production, Claude Code and Codex in the daily workflow. Based in Cyprus) Tj T* (with an EU passport. Remote employment or contract work.) Tj T* ET
+BT 1 0 0 1 0 40.35 Tm /F1 8.15 Tf 9.7 TL (Full stack developer. React, React Native, Next.js, TypeScript, Node.js, Python. Since 2024 I design, build, test and deploy my own) Tj T* (production web and mobile products end to end, working Agile with CI/CD. Before that, two years of production QA at Nexcom. That) Tj T* (background shows in how I ship: unit, integration and Playwright end-to-end tests plus API test automation on everything, before it goes) Tj T* (out, not after. I build with AI in the loop: Gemini and Google Vision OCR in production, Claude Code and Codex in the daily workflow.) Tj T* (Based in Cyprus with an EU passport. Remote employment or contract work.) Tj T* ET
 Q
 Q
 q
@@ -186,7 +186,7 @@ q
 1 0 0 1 51.35433 506.3354 cm
 q
 .062745 .094118 .156863 rg
-BT 1 0 0 1 0 1.4 Tm /F2 8.7 Tf 10.1 TL (Freelance Full-Stack Software Engineer - Client Projects) Tj T* ET
+BT 1 0 0 1 0 1.4 Tm /F2 8.7 Tf 10.1 TL (Independent Full-Stack Software Engineer - Shipped Products) Tj T* ET
 Q
 Q
 q
@@ -197,23 +197,23 @@ BT 1 0 0 1 0 1.1 Tm /F3 7.7 Tf 8.8 TL (Kyrenia, North Cyprus | 2024 - Present) T
 Q
 Q
 q
-1 0 0 1 51.35433 487.1854 cm
+1 0 0 1 51.35433 477.8354 cm
+q
+BT 1 0 0 1 0 10.75 Tm /F1 10 Tf 12 TL .113725 .160784 .223529 rg /F1 10 Tf 12 TL .113725 .160784 .223529 rg (-) Tj ET
+.113725 .160784 .223529 rg
+BT 1 0 0 1 8 10.75 Tm /F1 7.95 Tf 9.35 TL 1.33 0 Td (Build and run two production products solo: frontend, REST APIs, authentication, role-based access, data models, background jobs,) Tj T* -1.33 0 Td (admin tools.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 467.4854 cm
 q
 BT 1 0 0 1 0 1.4 Tm /F1 10 Tf 12 TL .113725 .160784 .223529 rg /F1 10 Tf 12 TL .113725 .160784 .223529 rg (-) Tj ET
 .113725 .160784 .223529 rg
-BT 1 0 0 1 8 1.4 Tm /F1 7.95 Tf 9.35 TL 1.33 0 Td (Build client products solo: frontend, REST APIs, authentication, role-based access, data models, background jobs, admin tools.) Tj T* -1.33 0 Td ET
+BT 1 0 0 1 8 1.4 Tm /F1 7.95 Tf 9.35 TL 1.33 0 Td (Own scope and architecture end to end. No handoffs; if it breaks in production, that is mine too.) Tj T* -1.33 0 Td ET
 Q
 Q
 q
-1 0 0 1 51.35433 476.8354 cm
-q
-BT 1 0 0 1 0 1.4 Tm /F1 10 Tf 12 TL .113725 .160784 .223529 rg /F1 10 Tf 12 TL .113725 .160784 .223529 rg (-) Tj ET
-.113725 .160784 .223529 rg
-BT 1 0 0 1 8 1.4 Tm /F1 7.95 Tf 9.35 TL 1.33 0 Td (Own scope and architecture with the client directly. No handoffs; if it breaks in production, that is mine too.) Tj T* -1.33 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 457.1354 cm
+1 0 0 1 51.35433 447.7854 cm
 q
 BT 1 0 0 1 0 10.75 Tm /F1 10 Tf 12 TL .113725 .160784 .223529 rg /F1 10 Tf 12 TL .113725 .160784 .223529 rg (-) Tj ET
 .113725 .160784 .223529 rg
@@ -221,7 +221,7 @@ BT 1 0 0 1 8 10.75 Tm /F1 7.95 Tf 9.35 TL 1.33 0 Td (Ship through CI/CD with Pla
 Q
 Q
 q
-1 0 0 1 51.35433 446.7854 cm
+1 0 0 1 51.35433 437.4354 cm
 q
 BT 1 0 0 1 0 1.4 Tm /F1 10 Tf 12 TL .113725 .160784 .223529 rg /F1 10 Tf 12 TL .113725 .160784 .223529 rg (-) Tj ET
 .113725 .160784 .223529 rg
@@ -229,7 +229,7 @@ BT 1 0 0 1 8 1.4 Tm /F1 7.95 Tf 9.35 TL 1.33 0 Td (Run production with Sentry an
 Q
 Q
 q
-1 0 0 1 51.35433 436.4354 cm
+1 0 0 1 51.35433 427.0854 cm
 q
 BT 1 0 0 1 0 1.4 Tm /F1 10 Tf 12 TL .113725 .160784 .223529 rg /F1 10 Tf 12 TL .113725 .160784 .223529 rg (-) Tj ET
 .113725 .160784 .223529 rg
@@ -237,21 +237,21 @@ BT 1 0 0 1 8 1.4 Tm /F1 7.95 Tf 9.35 TL 1.33 0 Td (Use Claude Code and Codex dai
 Q
 Q
 q
-1 0 0 1 51.35433 425.3354 cm
+1 0 0 1 51.35433 415.9854 cm
 q
 .062745 .094118 .156863 rg
 BT 1 0 0 1 0 1.4 Tm /F2 8.7 Tf 10.1 TL (Quality Assurance Engineer - Nexcom Technologies) Tj T* ET
 Q
 Q
 q
-1 0 0 1 51.35433 416.2354 cm
+1 0 0 1 51.35433 406.8854 cm
 q
 .4 .439216 .521569 rg
 BT 1 0 0 1 0 1.1 Tm /F3 7.7 Tf 8.8 TL (2022 - 2024) Tj T* ET
 Q
 Q
 q
-1 0 0 1 51.35433 406.1854 cm
+1 0 0 1 51.35433 396.8354 cm
 q
 BT 1 0 0 1 0 1.4 Tm /F1 10 Tf 12 TL .113725 .160784 .223529 rg /F1 10 Tf 12 TL .113725 .160784 .223529 rg (-) Tj ET
 .113725 .160784 .223529 rg
@@ -259,7 +259,7 @@ BT 1 0 0 1 8 1.4 Tm /F1 7.95 Tf 9.35 TL 1.33 0 Td (Tested production software ac
 Q
 Q
 q
-1 0 0 1 51.35433 395.8354 cm
+1 0 0 1 51.35433 386.4854 cm
 q
 BT 1 0 0 1 0 1.4 Tm /F1 10 Tf 12 TL .113725 .160784 .223529 rg /F1 10 Tf 12 TL .113725 .160784 .223529 rg (-) Tj ET
 .113725 .160784 .223529 rg
@@ -267,7 +267,7 @@ BT 1 0 0 1 8 1.4 Tm /F1 7.95 Tf 9.35 TL 1.33 0 Td (Wrote defect reports engineer
 Q
 Q
 q
-1 0 0 1 51.35433 385.4854 cm
+1 0 0 1 51.35433 376.1354 cm
 q
 BT 1 0 0 1 0 1.4 Tm /F1 10 Tf 12 TL .113725 .160784 .223529 rg /F1 10 Tf 12 TL .113725 .160784 .223529 rg (-) Tj ET
 .113725 .160784 .223529 rg
@@ -275,31 +275,31 @@ BT 1 0 0 1 8 1.4 Tm /F1 7.95 Tf 9.35 TL 1.33 0 Td (Sat in triage with the engine
 Q
 Q
 q
-1 0 0 1 51.35433 380.9854 cm
+1 0 0 1 51.35433 371.6354 cm
 Q
 q
-1 0 0 1 51.35433 358.9854 cm
+1 0 0 1 51.35433 349.6354 cm
 q
 .090196 .360784 .827451 rg
 BT 1 0 0 1 0 1.4 Tm /F2 8.6 Tf 10 TL (SELECTED PROJECTS) Tj T* ET
 Q
 Q
 q
-1 0 0 1 51.35433 347.6854 cm
+1 0 0 1 51.35433 338.3354 cm
 q
 .062745 .094118 .156863 rg
-BT 1 0 0 1 0 1.4 Tm /F2 8.7 Tf 10.1 TL (Kamu Sinav KKTC - Client Platform) Tj T* ET
+BT 1 0 0 1 0 1.4 Tm /F2 8.7 Tf 10.1 TL (Kamu Sinav KKTC - Exam Preparation Platform) Tj T* ET
 Q
 Q
 q
-1 0 0 1 51.35433 338.5854 cm
+1 0 0 1 51.35433 329.2354 cm
 q
 .4 .439216 .521569 rg
 BT 1 0 0 1 0 1.1 Tm /F3 7.7 Tf 8.8 TL (Stack: React, Vite, Node.js, Express, MongoDB, JWT, Tailwind CSS) Tj T* ET
 Q
 Q
 q
-1 0 0 1 51.35433 319.1854 cm
+1 0 0 1 51.35433 309.8354 cm
 q
 BT 1 0 0 1 0 10.75 Tm /F1 10 Tf 12 TL .113725 .160784 .223529 rg /F1 10 Tf 12 TL .113725 .160784 .223529 rg (-) Tj ET
 .113725 .160784 .223529 rg
@@ -307,21 +307,21 @@ BT 1 0 0 1 8 10.75 Tm /F1 7.95 Tf 9.35 TL 1.33 0 Td (Owns end-to-end delivery of
 Q
 Q
 q
-1 0 0 1 51.35433 308.0854 cm
+1 0 0 1 51.35433 298.7354 cm
 q
 .062745 .094118 .156863 rg
 BT 1 0 0 1 0 1.4 Tm /F2 8.7 Tf 10.1 TL (Is This Worth It - North Cyprus) Tj T* ET
 Q
 Q
 q
-1 0 0 1 51.35433 298.9854 cm
+1 0 0 1 51.35433 289.6354 cm
 q
 .4 .439216 .521569 rg
 BT 1 0 0 1 0 1.1 Tm /F3 7.7 Tf 8.8 TL (Stack: React Native, Expo, Convex, TypeScript, Gemini, Google Vision OCR, Cloud Run) Tj T* ET
 Q
 Q
 q
-1 0 0 1 51.35433 279.5854 cm
+1 0 0 1 51.35433 270.2354 cm
 q
 BT 1 0 0 1 0 10.75 Tm /F1 10 Tf 12 TL .113725 .160784 .223529 rg /F1 10 Tf 12 TL .113725 .160784 .223529 rg (-) Tj ET
 .113725 .160784 .223529 rg
@@ -329,27 +329,27 @@ BT 1 0 0 1 8 10.75 Tm /F1 7.95 Tf 9.35 TL 1.33 0 Td (Built a receipt-intelligenc
 Q
 Q
 q
-1 0 0 1 51.35433 269.7854 cm
+1 0 0 1 51.35433 260.4354 cm
 q
 BT 1 0 0 1 0 1.1 Tm 8.8 TL /F3 7.7 Tf .090196 .360784 .827451 rg (Live demo) Tj .4 .439216 .521569 rg ( | ) Tj .090196 .360784 .827451 rg (Repository) Tj T* ET
 Q
 Q
 q
-1 0 0 1 51.35433 258.9854 cm
+1 0 0 1 51.35433 249.6354 cm
 q
 .062745 .094118 .156863 rg
 BT 1 0 0 1 0 1.4 Tm /F2 8.7 Tf 10.1 TL (Newera) Tj T* ET
 Q
 Q
 q
-1 0 0 1 51.35433 249.8854 cm
+1 0 0 1 51.35433 240.5354 cm
 q
 .4 .439216 .521569 rg
 BT 1 0 0 1 0 1.1 Tm /F3 7.7 Tf 8.8 TL (Stack: Next.js, React, TypeScript, Django, DRF, PostgreSQL) Tj T* ET
 Q
 Q
 q
-1 0 0 1 51.35433 230.4854 cm
+1 0 0 1 51.35433 221.1354 cm
 q
 BT 1 0 0 1 0 10.75 Tm /F1 10 Tf 12 TL .113725 .160784 .223529 rg /F1 10 Tf 12 TL .113725 .160784 .223529 rg (-) Tj ET
 .113725 .160784 .223529 rg
@@ -357,21 +357,21 @@ BT 1 0 0 1 8 10.75 Tm /F1 7.95 Tf 9.35 TL 1.33 0 Td (Built a full-stack product 
 Q
 Q
 q
-1 0 0 1 51.35433 219.3854 cm
+1 0 0 1 51.35433 210.0354 cm
 q
 .062745 .094118 .156863 rg
 BT 1 0 0 1 0 1.4 Tm /F2 8.7 Tf 10.1 TL (Reel Scheduler) Tj T* ET
 Q
 Q
 q
-1 0 0 1 51.35433 210.2854 cm
+1 0 0 1 51.35433 200.9354 cm
 q
 .4 .439216 .521569 rg
 BT 1 0 0 1 0 1.1 Tm /F3 7.7 Tf 8.8 TL (Stack: Expo, React Native, Django, AWS S3, Celery, Sentry) Tj T* ET
 Q
 Q
 q
-1 0 0 1 51.35433 190.8854 cm
+1 0 0 1 51.35433 181.5354 cm
 q
 BT 1 0 0 1 0 10.75 Tm /F1 10 Tf 12 TL .113725 .160784 .223529 rg /F1 10 Tf 12 TL .113725 .160784 .223529 rg (-) Tj ET
 .113725 .160784 .223529 rg
@@ -379,17 +379,17 @@ BT 1 0 0 1 8 10.75 Tm /F1 7.95 Tf 9.35 TL 1.33 0 Td (Built a monitored media wor
 Q
 Q
 q
-1 0 0 1 51.35433 186.3854 cm
+1 0 0 1 51.35433 177.0354 cm
 Q
 q
-1 0 0 1 51.35433 164.3854 cm
+1 0 0 1 51.35433 155.0354 cm
 q
 .090196 .360784 .827451 rg
 BT 1 0 0 1 0 1.4 Tm /F2 8.6 Tf 10 TL (FULL-STACK DELIVERY) Tj T* ET
 Q
 Q
 q
-1 0 0 1 51.35433 153.8354 cm
+1 0 0 1 51.35433 144.4854 cm
 q
 BT 1 0 0 1 0 1.4 Tm /F1 10 Tf 12 TL .113725 .160784 .223529 rg /F1 10 Tf 12 TL .113725 .160784 .223529 rg (-) Tj ET
 .113725 .160784 .223529 rg
@@ -397,7 +397,7 @@ BT 1 0 0 1 8 1.4 Tm /F1 7.95 Tf 9.35 TL 1.33 0 Td (Designs complete product slic
 Q
 Q
 q
-1 0 0 1 51.35433 143.4854 cm
+1 0 0 1 51.35433 134.1354 cm
 q
 BT 1 0 0 1 0 1.4 Tm /F1 10 Tf 12 TL .113725 .160784 .223529 rg /F1 10 Tf 12 TL .113725 .160784 .223529 rg (-) Tj ET
 .113725 .160784 .223529 rg
@@ -405,19 +405,19 @@ BT 1 0 0 1 8 1.4 Tm /F1 7.95 Tf 9.35 TL 1.33 0 Td (Turns ambiguous requirements 
 Q
 Q
 q
-1 0 0 1 51.35433 138.9854 cm
+1 0 0 1 51.35433 129.6354 cm
 Q
 q
-1 0 0 1 51.35433 116.9854 cm
+1 0 0 1 51.35433 107.6354 cm
 q
 .090196 .360784 .827451 rg
 BT 1 0 0 1 0 1.4 Tm /F2 8.6 Tf 10 TL (EDUCATION AND LANGUAGES) Tj T* ET
 Q
 Q
 q
-1 0 0 1 51.35433 106.0854 cm
+1 0 0 1 51.35433 96.73543 cm
 q
-BT 1 0 0 1 0 1.55 Tm 9.7 TL /F2 8.15 Tf .113725 .160784 .223529 rg (University of Kyrenia:) Tj /F1 8.15 Tf ( B.Sc. Software Engineering | ) Tj /F2 8.15 Tf (Languages:) Tj /F1 8.15 Tf ( English, Turkish, Russian) Tj T* ET
+BT 1 0 0 1 0 1.55 Tm 9.7 TL /F2 8.15 Tf .113725 .160784 .223529 rg (University of Kyrenia:) Tj /F1 8.15 Tf ( B.Sc. Software Engineering, expected 2027 | ) Tj /F2 8.15 Tf (Languages:) Tj /F1 8.15 Tf ( English, Turkish, Russian) Tj T* ET
 Q
 Q
  
@@ -443,7 +443,7 @@ xref
 trailer
 <<
 /ID 
-[<08a07285439c533d52b8b1ecf9734596><08a07285439c533d52b8b1ecf9734596>]
+[<274064d493895c8518ea107f6a4dd627><274064d493895c8518ea107f6a4dd627>]
 % ReportLab generated PDF document -- digest (opensource)
 
 /Info 12 0 R
@@ -451,5 +451,5 @@ trailer
 /Size 15
 >>
 startxref
-14093
+14121
 %%EOF

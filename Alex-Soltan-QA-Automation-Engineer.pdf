@@ -72,7 +72,7 @@ endobj
 endobj
 12 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260821172458+03'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260821172458+03'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+/Author (\(anonymous\)) /CreationDate (D:20260827170447+03'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260827170447+03'00') /Producer (ReportLab PDF Library - \(opensource\)) 
   /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
 >>
 endobj
@@ -83,7 +83,7 @@ endobj
 endobj
 14 0 obj
 <<
-/Length 11619
+/Length 11623
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -129,7 +129,7 @@ q
 1 0 0 1 51.35433 663.9354 cm
 q
 .113725 .160784 .223529 rg
-BT 1 0 0 1 0 40.35 Tm /F1 8.15 Tf 9.7 TL -0.065807 Tw (QA automation engineer. Two years of production quality assurance at Nexcom Technologies, then test automation for my own freelance) Tj T* 0 Tw (client products since 2024. Playwright end-to-end testing, API test automation, unit and integration tests, manual and exploratory work in) Tj T* (Agile delivery. I read code, so a failure gets a root cause in the UI, the REST API, the SQL data or the CI/CD pipeline, not a screenshot) Tj T* (and a shrug. I also test AI-era products: LLM features, AI-generated code and OCR pipelines all get verified before they ship. Based in) Tj T* (Cyprus with an EU passport. Remote employment or contract work.) Tj T* ET
+BT 1 0 0 1 0 40.35 Tm /F1 8.15 Tf 9.7 TL (QA automation engineer. Two years of production quality assurance at Nexcom Technologies, then test automation for my own) Tj T* (production products since 2024. Playwright end-to-end testing, API test automation, unit and integration tests, manual and exploratory) Tj T* (work in Agile delivery. I read code, so a failure gets a root cause in the UI, the REST API, the SQL data or the CI/CD pipeline, not a) Tj T* (screenshot and a shrug. I also test AI-era products: LLM features, AI-generated code and OCR pipelines all get verified before they ship.) Tj T* (Based in Cyprus with an EU passport. Remote employment or contract work.) Tj T* ET
 Q
 Q
 q
@@ -224,7 +224,7 @@ q
 1 0 0 1 51.35433 445.9854 cm
 q
 .062745 .094118 .156863 rg
-BT 1 0 0 1 0 1.4 Tm /F2 8.7 Tf 10.1 TL (Freelance Software Engineer - Client Projects) Tj T* ET
+BT 1 0 0 1 0 1.4 Tm /F2 8.7 Tf 10.1 TL (Independent Software Engineer - Shipped Products) Tj T* ET
 Q
 Q
 q
@@ -239,7 +239,7 @@ q
 q
 BT 1 0 0 1 0 1.4 Tm /F1 10 Tf 12 TL .113725 .160784 .223529 rg /F1 10 Tf 12 TL .113725 .160784 .223529 rg (-) Tj ET
 .113725 .160784 .223529 rg
-BT 1 0 0 1 8 1.4 Tm /F1 7.95 Tf 9.35 TL 1.33 0 Td (Write and maintain Playwright end-to-end suites, API test automation and regression coverage for client products in production.) Tj T* -1.33 0 Td ET
+BT 1 0 0 1 8 1.4 Tm /F1 7.95 Tf 9.35 TL 1.33 0 Td (Write and maintain Playwright end-to-end suites, API test automation and regression coverage for my own products in production.) Tj T* -1.33 0 Td ET
 Q
 Q
 q
@@ -280,7 +280,7 @@ q
 1 0 0 1 51.35433 348.6354 cm
 q
 .062745 .094118 .156863 rg
-BT 1 0 0 1 0 1.4 Tm /F2 8.7 Tf 10.1 TL (Kamu Sinav KKTC - Client Platform) Tj T* ET
+BT 1 0 0 1 0 1.4 Tm /F2 8.7 Tf 10.1 TL (Kamu Sinav KKTC - Exam Preparation Platform) Tj T* ET
 Q
 Q
 q
@@ -409,7 +409,7 @@ Q
 q
 1 0 0 1 51.35433 107.0354 cm
 q
-BT 1 0 0 1 0 1.55 Tm 9.7 TL /F2 8.15 Tf .113725 .160784 .223529 rg (University of Kyrenia:) Tj /F1 8.15 Tf ( B.Sc. Software Engineering | ) Tj /F2 8.15 Tf (Languages:) Tj /F1 8.15 Tf ( English, Turkish, Russian) Tj T* ET
+BT 1 0 0 1 0 1.55 Tm 9.7 TL /F2 8.15 Tf .113725 .160784 .223529 rg (University of Kyrenia:) Tj /F1 8.15 Tf ( B.Sc. Software Engineering, expected 2027 | ) Tj /F2 8.15 Tf (Languages:) Tj /F1 8.15 Tf ( English, Turkish, Russian) Tj T* ET
 Q
 Q
  
@@ -435,7 +435,7 @@ xref
 trailer
 <<
 /ID 
-[<cb49818f8d88364ded4fdad8988ccb15><cb49818f8d88364ded4fdad8988ccb15>]
+[<6b20124319fc2f245a1ccc4df8b71811><6b20124319fc2f245a1ccc4df8b71811>]
 % ReportLab generated PDF document -- digest (opensource)
 
 /Info 12 0 R
@@ -443,5 +443,5 @@ trailer
 /Size 15
 >>
 startxref
-13738
+13742
 %%EOF
